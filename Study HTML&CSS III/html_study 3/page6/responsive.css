@@ -1,0 +1,12 @@
+/* Untuk Tablets */
+@media(max-width: 1000px ){
+  
+}
+/* Tambahkan breakpoint max-width: 1000px */
+@media (max-width: 1000px ) {
+  /* Tambahkan CSS untuk lesson */
+  .lesson{
+    width: 50%;
+    margin-bottom: 50px;
+  }
+}
